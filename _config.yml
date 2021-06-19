@@ -1,9 +1,8 @@
 # Setup
 title:               doctorX
-tagline:             '- self medicating security issues'
-description:         'Principal Engg @ Zillow. Opinions are my own'
-url:                 "https://kidd0123.github.io" 
-                     #"localhost:4000"
+tagline:             'self medicating security issues'
+description:         'Principal Engg @ Zillow. Opinions are my own'                     
+url:                 #"https://kidd0123.github.io" 
 baseurl:             ''
 paginate:            5
 permalink:           pretty
