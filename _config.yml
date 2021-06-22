@@ -2,7 +2,7 @@
 title:               doctorX
 tagline:             'self medicating security issues'
 description:         ''
-url:                 #"https://kidd0123.github.io" 
+url:                 'https://doctorx.dev'
 baseurl:             ''
 paginate:            5
 permalink:           pretty
