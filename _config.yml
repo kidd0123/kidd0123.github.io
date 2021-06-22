@@ -1,7 +1,7 @@
 # Setup
 title:               doctorX
 tagline:             'self medicating security issues'
-description:         'Principal Engg @ Zillow. Opinions are my own'                     
+description:         ''
 url:                 #"https://kidd0123.github.io" 
 baseurl:             ''
 paginate:            5
@@ -9,9 +9,12 @@ permalink:           pretty
 
 # About/contact
 author:
-  name:              Vamsi NC
-  url:               https://linkedin.com/in/ncvamsi
-  email:             nc.vamsi@gmail.com
+  name: Vamsi NC
+  github: kidd0123
+  email:  nc.vamsi@gmail.com
+  bugcrowd: kidd0123
+  libravatar_md5: 3bb1cf1cb34b1dc376f50cb44b7dccdc
+  linkedin: ncvamsi
 
 # Gems
 plugins:
